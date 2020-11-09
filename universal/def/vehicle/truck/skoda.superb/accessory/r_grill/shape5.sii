@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape5.skoda.superb.r_grill
+{
+	name: "Pilot"
+	price: 1800
+	unlock: 0
+	icon: "ets2mp"
+	exterior_model: "/vehicle/truck/upgrade/kogut/kogut5.pmd"
+	hide_in:	0x4000
+}
+}

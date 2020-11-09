@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape1.skoda.superb.kaput
+{
+	name: "Капот"
+	price: 1
+	unlock: 0
+	icon: "ets2mp"
+exterior_model: "/vehicle/truck/upgrade/kaput/kaput_01.pmd"
+interior_model: "/vehicle/truck/upgrade/kaput/kaput_01int.pmd"
+}
+}

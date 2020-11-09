@@ -1,0 +1,41 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.skoda.superb
+{
+	info[]: "Ford"
+	info[]: "Mustang GT"
+
+	behind_camera: camera.behind.car
+	interior_camera: camera.interior.skoda.superb
+	interior_camera_oculus: camera.interior.skoda.superb.oculus
+	bumper_camera: camera.bumper.car
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.car
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	debug_camera: camera.debug
+
+    fallback[]: "accessory|kaput/shape1.sii"
+	fallback[]: "chassis|standard.sii"
+	fallback[]: "cabin|standard.sii"
+	fallback[]: "interior|standard.sii"
+	fallback[]: "engine|18tsi.sii"
+	fallback[]: "transmission|6_speed.sii"
+	fallback[]: "f_tire|18in.sii"
+	fallback[]: "f_disc|18in_disc.sii"
+	fallback[]: "f_hub|18in_hub.sii"
+	fallback[]: "f_nuts|18in_nuts.sii"
+	fallback[]: "r_tire|18in.sii"
+	fallback[]: "r_disc|18in_disc.sii"
+	fallback[]: "r_hub|18in_hub.sii"
+	fallback[]: "r_nuts|18in_nuts.sii"
+	fallback[]: "paint_job|color3.sii"
+	fallback[]: "head_light|standard.sii"
+
+	require[]: mirror
+	require[]: f_mirror
+	require[]: b_grill
+
+}
+}

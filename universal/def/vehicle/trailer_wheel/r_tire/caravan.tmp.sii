@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_wheel_data : carav_tmp.rtire
+{
+	name: "Caravan Wheel"
+	price: 2250
+	unlock: 9
+	model: "/vehicle/wheel/car/caravan/wheel.pmd"
+	icon: "ets2mp"
+	look: default
+
+	roll_resistance: 6.5
+	wet_grip: 0.9
+	noise_volume: 75
+	
+@include "/def/vehicle/car_wheels_conflicts_trailer.sui"
+}
+}

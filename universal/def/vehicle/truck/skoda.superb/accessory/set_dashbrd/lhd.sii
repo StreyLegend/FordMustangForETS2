@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : lhd.skoda.superb.set_dashbrd
+{
+	name: "Default"
+	price: 1
+	unlock: 0
+	icon: "ets2mp"
+   
+	interior_model: "/vehicle/truck/upgrade/set_dashbrd/skoda_superb/lhd.pmd"
+
+	suitable_for[]: "standard.skoda.superb.interior"
+	suitable_for[]: "exclusive.skoda.superb.interior"
+}
+}

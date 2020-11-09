@@ -1,0 +1,163 @@
+SiiNunit
+{
+vehicle: .tdealer.scout
+{
+ fuel_relative: &3f000000
+ user_mirror_rot: 4
+ user_mirror_rot[0]: (1; 0, 0, 0)
+ user_mirror_rot[1]: (1; 0, 0, 0)
+ user_mirror_rot[2]: (1; 0, 0, 0)
+ user_mirror_rot[3]: (1; 0, 0, 0)
+
+ accessories[]: _nameless.skoda.data
+ accessories[]: _nameless.skoda.chass
+ accessories[]: _nameless.skoda.cab
+ accessories[]: _nameless.skoda.int
+ accessories[]: _nameless.skoda.eng
+ accessories[]: _nameless.skoda.trans
+ accessories[]: _nameless.skoda.intsnd
+ accessories[]: _nameless.skoda.extsnd
+ accessories[]: _nameless.skoda.light
+ accessories[]: _nameless.skoda.paint
+ accessories[]: _nameless.skoda.bgrill
+ accessories[]: _nameless.skoda.mirror
+ accessories[]: _nameless.ftire
+ accessories[]: _nameless.fdisc
+ accessories[]: _nameless.fhub
+ accessories[]: _nameless.fnuts
+ accessories[]: _nameless.rtire
+ accessories[]: _nameless.rdisc
+ accessories[]: _nameless.rhub
+ accessories[]: _nameless.rnuts
+ accessories[]: _nameless.f_mirror
+
+ odometer: 0
+ odometer_float_part: &39239fb9
+}
+
+
+
+
+vehicle_accessory : _nameless.skoda.data {
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/data.sii"
+}
+
+vehicle_accessory : _nameless.skoda.chass {
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/chassis/standard.sii"
+}
+
+vehicle_accessory : _nameless.skoda.cab {
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/cabin/standard.sii"
+}
+
+vehicle_accessory : _nameless.skoda.int {
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/interior/standard_uk.sii"
+}
+
+vehicle_accessory : _nameless.skoda.eng {
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/engine/20tdi.sii"
+}
+
+vehicle_accessory : _nameless.skoda.trans {
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/transmission/6_speed.sii"
+}
+
+vehicle_sound_accessory : _nameless.skoda.intsnd {
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/sound/interior_tdi.sii"
+}
+
+vehicle_sound_accessory : _nameless.skoda.extsnd {
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/sound/exterior_tdi.sii"
+}
+
+vehicle_accessory : _nameless.skoda.light {
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/head_light/xenon.sii"
+}
+
+vehicle_paint_job_accessory : _nameless.skoda.paint {
+ mask_r_color: (1, 0, 0)
+ mask_g_color: (0, 1, 0)
+ mask_b_color: (0, 0, 1)
+ base_color: (0.0666, 0.162, 0.1247)
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/paint_job/color7.sii"
+}
+
+vehicle_addon_accessory : _nameless.skoda.bgrill {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/accessory/b_grill/shape1.sii"
+}
+
+vehicle_addon_accessory : _nameless.skoda.mirror {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/accessory/mirror/shape1.sii"
+}
+
+vehicle_wheel_accessory : _nameless.ftire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_tire/18in.sii"
+}
+
+vehicle_wheel_accessory : _nameless.fdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_disc/18in_disc.sii"
+}
+
+vehicle_wheel_accessory : _nameless.fhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_hub/18in_hub.sii"
+}
+
+vehicle_wheel_accessory : _nameless.fnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/f_nuts/18in_nuts.sii"
+}
+
+vehicle_wheel_accessory : _nameless.rtire {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_tire/18in.sii"
+}
+
+vehicle_wheel_accessory : _nameless.rdisc {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_disc/18in_disc.sii"
+}
+
+vehicle_wheel_accessory : _nameless.rhub {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_hub/18in_hub.sii"
+}
+
+vehicle_wheel_accessory : _nameless.rnuts {
+ offset: 0
+ wear: 0
+ data_path: "/def/vehicle/r_nuts/18in_nuts.sii"
+}
+
+vehicle_addon_accessory : _nameless.f_mirror {
+ slot_name: 0
+ slot_hookup: 0
+ wear: 0
+ data_path: "/def/vehicle/truck/skoda.superb/accessory/f_mirror/shape1.sii"
+}
+}

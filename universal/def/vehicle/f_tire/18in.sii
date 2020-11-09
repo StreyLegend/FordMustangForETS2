@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_wheel_data : 18in.ftire
+{
+	name: "Scout 18in"
+	price: 300
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/tire/18in.pmd"
+	icon: "ets2mp"
+	look: default
+
+	roll_resistance: 6.5
+	wet_grip: 0.9
+	noise_volume: 75
+	
+@include "/def/vehicle/car_wheels_conflicts.sui"
+}
+}

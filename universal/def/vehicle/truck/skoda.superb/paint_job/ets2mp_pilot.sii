@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_paint_job_data : pilot.skoda.superb.paint_job
+{
+	name: "Pilot"
+	price: 5000
+	unlock: 0
+	icon: "paintjob_pilot"
+	mask_r_color : (1, 0.24804, 0)
+	mask_r_locked : false
+	mask_g_color : (1, 0.24804, 0)
+	mask_g_locked : false
+	mask_b_color : (1, 0.24804, 0)
+	mask_b_locked : false
+	base_color : (1, 1, 1)
+	base_color_locked : false
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ets2mp_pilot.tobj"
+}
+}

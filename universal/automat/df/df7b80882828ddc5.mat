@@ -1,0 +1,4 @@
+material : "eut2.reflective.rfx" {
+	texture[0] : "/vehicle/truck/skoda_superb/textures/carpaint.tobj"
+	texture_name[0] : "texture_base"
+}

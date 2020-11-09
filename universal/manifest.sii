@@ -1,0 +1,17 @@
+SiiNunit 
+{ 
+mod_package : .package_name
+{
+package_version: "1.3"
+display_name: "Ford Mustang GT"
+author: "StreyLegend"
+
+
+
+icon: "mod_image.jpg"
+description_file: "mod_description.txt"
+
+
+
+}
+}

@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_engine_data : 20tdi.skoda.superb.engine
+{
+	name: "2.0 TDI"
+	price: 5000
+	unlock: 0
+	info[]: "170 @@hp@@ (125@@kw@@)"
+	info[]: "@@dg@@320 @@nm@@"
+	info[]: "1@@dg@@750-2@@dg@@500 @@rpm@@"
+	icon: "engine_01"
+	torque: 2500
+	rpm_limit: 6000
+	volume: 6.01
+	
+}
+}

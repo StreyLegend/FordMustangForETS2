@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_paint_job_data : police.skoda.superb.paint_job
+{
+	name: "Police"
+	price: 5000
+	unlock: 0
+	icon: "paintjob_police"
+	airbrush : true
+	base_color : (0.02, 0.02, 0.02)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ets2mp_police.tobj"
+	stock: true
+}
+}

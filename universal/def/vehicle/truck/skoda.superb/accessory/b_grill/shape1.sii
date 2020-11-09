@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.skoda.superb.b_grill
+{
+	name: "Halogen"
+	price: 100
+	unlock: 0
+	icon: "ets2mp"
+	exterior_model: "/vehicle/truck/upgrade/bottomgrill/skoda_superb/bottomgrill_01.pmd"
+}
+}

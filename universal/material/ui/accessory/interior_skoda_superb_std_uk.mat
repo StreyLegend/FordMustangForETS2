@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "interior_skoda_superb_std_uk.tobj"
+	texture_name : "texture"
+}

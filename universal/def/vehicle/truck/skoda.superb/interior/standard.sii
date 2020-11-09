@@ -1,0 +1,38 @@
+SiiNunit
+{
+accessory_interior_data: standard.skoda.superb.interior
+{
+	name: "@@standard@@"
+	price: 5000
+	unlock: 0
+	icon: "interior_skoda_superb_std_eu"
+
+	model: "/vehicle/truck/skoda_superb/interior/model.pmd"
+	collision: "/vehicle/truck/skoda_superb/interior/model.pmc"
+	animated_model: "/vehicle/truck/skoda_superb/interior/anim.pmd"
+	active_mirrors_part: a_mirrors
+	passive_mirrors_part: p_mirrors
+	look: look1
+	variant: standard
+
+@include "animations.sui"
+
+	dashboard_path:"/ui/dashboard/skoda.sii"
+	gps_path:"/ui/gps.sii"
+
+	glass_panes[]: .skoda.superb.pane.front
+	glass_panes[]: .skoda.superb.pane.close
+	glass_panes[]: .skoda.superb.pane.far
+	glass_panes[]: .skoda.superb.pane.top
+
+	suitable_for[]: "standard.skoda.superb.cabin"
+	
+	ext_model: "/vehicle/truck/upgrade/ext_interior/skoda_superb/stock.pmd"
+	ext_variant: eu
+	ext_look: standard
+
+@include "dashboard_color.sui"
+@include "seat.sui"
+}
+@include "glass.sui"
+}

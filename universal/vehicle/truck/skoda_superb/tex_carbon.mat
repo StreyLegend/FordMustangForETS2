@@ -1,0 +1,9 @@
+material : "eut2.dif" {
+	texture[0] : "/vehicle/truck/skoda_superb/interior/ddsler/alck8.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.8 , 0.8 , 0.8 }
+	specular : { 0 , 0 , 0 }
+	shininess : 50
+	aux[1] : { 0 , 0 }
+
+}

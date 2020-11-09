@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color5.skoda.superb.paint_job
+{
+	name: "Amethyst Purple"
+	price: 3000
+	unlock: 0
+	base_color :   (0.3233, 0.2365, 0.2680)
+	base_color_locked: true
+	stock: true
+}
+}

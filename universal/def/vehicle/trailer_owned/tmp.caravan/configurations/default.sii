@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_configuration : .default
+{
+	name: "Caravan"
+	chain_type: single
+	icon: "ets2mp"
+	chassis[]: "/def/vehicle/trailer_owned/tmp.caravan/chassis/default.sii"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : 18in.rhub
+{
+	name: "Standard"
+	price: 1
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/hub/18in_hub.pmd"
+	icon: "ets2mp"
+	
+@include "/def/vehicle/car_wheels_conflicts.sui"
+}
+}

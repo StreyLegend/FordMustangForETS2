@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_rim_data : 18in.rdisc
+{
+	name: "Scout 18in"
+	price: 500
+	unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/disc/18in_disc.pmd"
+	icon: "ets2mp"
+	paintable: true
+	
+@include "/def/vehicle/car_wheels_conflicts.sui"
+}
+}

@@ -1,0 +1,20 @@
+SiiNunit
+{
+trailer_def : trailer_def.tmp.caravan.default.default
+{
+	gross_trailer_weight_limit: 3000
+	chassis_mass: 2350
+	body_mass: 0
+	length: 5
+	axles: 1
+	volume: 87
+	body_type: curtainside
+	chain_type: single
+
+	mass_ratio[]: 1
+	min_cog_mass[]: 0
+	min_cog[]: (0,0,0)
+	max_cog_mass[]: 1000
+	max_cog[]: (0,1,0)
+}
+}

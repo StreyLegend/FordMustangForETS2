@@ -1,0 +1,8 @@
+material : "eut2.dif.over" {
+	diffuse : { 0.0941176 , 0.0941176 , 0.0941176 }
+	specular : { 1 , 1 , 1 }
+	shininess : 50
+	tint : { 1 , 1 , 1 }
+	aux[1] : { 0 , 0 }
+
+}

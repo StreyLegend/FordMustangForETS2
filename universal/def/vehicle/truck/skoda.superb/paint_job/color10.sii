@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color10.skoda.superb.paint_job
+{
+	name: "Cappuccino Beige"
+	price: 3000
+	unlock: 0
+	base_color :   (0.3460, 0.2886, 0.2520)
+	base_color_locked: true
+	stock: true
+}
+}

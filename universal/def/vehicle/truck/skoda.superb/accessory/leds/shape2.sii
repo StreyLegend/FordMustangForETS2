@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape2.skoda.superb.leds
+{
+	name: "Orange Leds"
+	price: 50
+	unlock: 0
+	icon: "ets2mp"
+	exterior_model: "/vehicle/truck/upgrade/leds/led2.pmd"
+}
+}

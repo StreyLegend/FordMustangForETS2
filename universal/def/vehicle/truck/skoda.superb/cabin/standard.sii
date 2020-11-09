@@ -1,0 +1,29 @@
+SiiNunit
+{
+accessory_cabin_data : standard.skoda.superb.cabin
+{
+	name: "Standard"
+	price: 1
+	unlock: 0
+	icon: "ets2mp"
+	detail_model: "/vehicle/truck/skoda_superb/car.pmd"
+	lods[]: "/vehicle/truck/skoda_superb/lod.pmd"
+	collision: "/vehicle/truck/skoda_superb/car.pmc"
+	variant: cabin_a
+	variant_uk: cabin_a_uk
+	suspension: false
+	look: default
+	wiper_model: "/vehicle/truck/skoda_superb/wipers_eu.pmd"
+	wiper_anim: "/vehicle/truck/skoda_superb/wipers_eu.pma"
+	wiper_model_uk: "/vehicle/truck/skoda_superb/wipers_uk.pmd"
+	wiper_anim_uk: "/vehicle/truck/skoda_superb/wipers_uk.pma"
+	
+	sound_horn: "/sound/truck/skoda_superb.bank#horn/hornfm"
+	
+	defaults[]: "/def/vehicle/truck/skoda.superb/paint_job/ets2mp_police.sii"
+	defaults[]: "/def/vehicle/truck/skoda.superb/head_light/xenon.sii"
+	defaults[]: "/def/vehicle/truck/skoda.superb/interior/standard.sii"
+	defaults[]: "/def/vehicle/truck/skoda.superb/accessory/mirror/shape1.sii"
+	defaults[]: "/def/vehicle/truck/skoda.superb/accessory/f_mirror/shape1.sii"
+}
+}

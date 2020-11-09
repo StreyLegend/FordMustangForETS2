@@ -1,0 +1,10 @@
+SiiNunit
+{
+trailer_body_set : .default
+{
+	name: "Caravan"
+	icon: "ets2mp"
+	trailer_definition: trailer_def.tmp.caravan.default.default
+	body[]: "/def/vehicle/trailer_owned/tmp.caravan/body/default.sii"
+}
+}

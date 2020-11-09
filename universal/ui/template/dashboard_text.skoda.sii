@@ -1,0 +1,23 @@
+SiiNunit
+{
+ui::text_template : txt.skoda.clock {
+	name: "zDB  Scania 2009 Clock"
+	text: "<color value=FFFFFFFF><font face=/font/number.font xscale=3 yscale=4>%0</font>"
+}
+ui::text_template : txt.skoda.text {
+	name: "zDB  Scania 2009 Text"
+	text: "<color value=FFFFFFFF><align hstyle=right><font face=/font/big.font xscale=5 yscale=5>%0</font></align>"
+}
+ui::text_template : txt.skoda.standard {
+	name: "zDB  Scania 2009 Text Smaller"
+	text: "<color value=FFFFFFFF><align hstyle=right><font face=/font/big.font xscale=4 yscale=4>%0</font></align>"
+}
+ui::text_template : txt.skoda.speed {
+	name: "zDB  Scania 2009 Speed"
+	text: "<color value=FFFFFFFF><align hstyle=right><font face=/font/big.font xscale=5 yscale=5>%0 %1</font></align>"
+}
+ui::text_template : txt.skoda.temp_norm {
+	name: "zDB  Scania 2009 Temperature Normal"
+	text: "<align hstyle=right><color value=FFFFFFFF><font face=/font/big.font xscale=3.5 yscale=5>%0°%1</font></align>"
+}
+}

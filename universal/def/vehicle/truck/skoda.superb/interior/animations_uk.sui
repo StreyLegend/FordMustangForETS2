@@ -1,0 +1,46 @@
+	wheel_updown_anim: "/vehicle/truck/skoda_superb/interior/uk/kol_obr.pma"
+	wheel_frontback_anim: "/vehicle/truck/skoda_superb/interior/uk/kol_przes.pma"
+	wheel_updown_anim_default: 0.5
+	wheel_frontback_anim_default: 0.5
+
+	wiper_anim: "/vehicle/truck/skoda_superb/interior/uk/wycieraczki.pma"
+	wiper_delay[]: 2
+	wheel_anim: "/vehicle/truck/skoda_superb/interior/uk/kierownica.pma"
+	blinker_delay: 0.4
+	blinker_anim: "/vehicle/truck/skoda_superb/interior/uk/kierunkowskazy.pma"
+	high_beam_anim: "/vehicle/truck/skoda_superb/interior/uk/sw_drogowe.pma"
+	parking_stick_anim: "/vehicle/truck/skoda_superb/interior/uk/ham_reczny.pma"
+	wiper_stick_anim: "/vehicle/truck/skoda_superb/interior/uk/wajcha_wyc.pma"
+	lights_anim: "/vehicle/truck/skoda_superb/interior/uk/swiatla.pma"
+	indicator_generic: "/vehicle/truck/skoda_superb/interior/uk/generic.pma"
+
+
+	water_temp_anim: "/vehicle/truck/skoda_superb/interior/uk/temp.pma"
+	water_temp_anim_min: 50
+	water_temp_anim_max: 130
+	tachometer_anim: "/vehicle/truck/skoda_superb/interior/uk/rpm.pma"
+	tachometer_anim_min: 200
+	tachometer_anim_max: 3500
+	speedometer_anim: "/vehicle/truck/skoda_superb/interior/uk/speed.pma"
+	speedometer_anim_min: 0
+	speedometer_anim_max: 240
+	fuel_anim: "/vehicle/truck/skoda_superb/interior/uk/fuel.pma"
+	fuel_anim_max: 1.0
+
+	engine_start_anim: "/vehicle/truck/skoda_superb/interior/uk/kluczyk.pma"
+	
+	flasher_4way_anim: "/vehicle/truck/skoda_superb/interior/uk/awaryjne_wl.pma"
+	button_4way: "/vehicle/truck/skoda_superb/interior/uk/awaryjne_kont.pma"
+
+	button_left_blinker: "/vehicle/truck/skoda_superb/interior/uk/lewy_kierunek.pma"
+	button_right_blinker: "/vehicle/truck/skoda_superb/interior/uk/prawy_kierunek.pma"
+	button_high_beam_lights: "/vehicle/truck/skoda_superb/interior/uk/kont_sw_drog.pma"
+	button_lights: "/vehicle/truck/skoda_superb/interior/uk/kont_sw_mij.pma"
+	button_battery_warning: "/vehicle/truck/skoda_superb/interior/uk/akumulator.pma"
+	button_low_fuel: "/vehicle/truck/skoda_superb/interior/uk/kont_paliwo.pma"
+	button_parking_brake: "/vehicle/truck/skoda_superb/interior/uk/kont_reczny.pma"
+	indicator_stop: "/vehicle/truck/skoda_superb/interior/uk/stop.pma"
+	indicator_warning: "/vehicle/truck/skoda_superb/interior/uk/warn.pma"
+	indicator_cruise_control: "/vehicle/truck/skoda_superb/interior/uk/tempomat.pma"
+	button_water_temp: "/vehicle/truck/skoda_superb/interior/uk/kont_woda.pma"
+	indicator_low_oil_pressure: "/vehicle/truck/skoda_superb/interior/uk/olej.pma"

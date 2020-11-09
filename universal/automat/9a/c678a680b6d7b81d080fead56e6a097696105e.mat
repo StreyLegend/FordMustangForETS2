@@ -1,0 +1,5 @@
+material : "eut2.unlit.vcol.tex.decal.over.fx" {
+	texture[0] : "/vehicle/truck/skoda_superb/interior/decals.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 1 , 1 , 1 }
+}

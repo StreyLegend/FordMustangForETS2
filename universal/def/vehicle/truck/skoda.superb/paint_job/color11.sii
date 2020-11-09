@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color11.skoda.superb.paint_job
+{
+	name: "Metal Grey"
+	price: 3000
+	unlock: 0
+	base_color :   (0.0500, 0.0912, 0.1034)
+	base_color_locked: true
+	stock: true
+}
+}

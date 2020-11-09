@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape1.skoda.superb.r_grill
+{
+	name: "Police 1"
+	price: 2000
+	unlock: 0
+	icon: "ets2mp"
+	exterior_model: "/vehicle/truck/upgrade/kogut/kogut.pmd"
+	hide_in:	0x4000
+}
+}

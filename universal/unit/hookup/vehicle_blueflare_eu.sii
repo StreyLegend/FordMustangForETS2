@@ -1,0 +1,95 @@
+SiiNunit
+{
+
+flare_blink: flare.vehicle.euflare{
+
+	dir_type: wide
+
+	
+light_type: beacon
+
+	
+blink_pattern: "X-X-----"
+
+	blink_step_length: 0.17		
+
+	model: "/model/flare/uniform_blue_amplified.pmd"
+ 
+
+	default_scale: 0.632
+
+	scale_factor: 3
+
+
+	fake_interior_offset: 1.5
+}
+flare_blink: flare.vehicle.euflare2{
+
+	dir_type: wide
+
+	
+light_type: beacon
+
+	
+blink_pattern: "----X-X-"
+
+	blink_step_length: 0.17		
+
+	model: "/model/flare/uniform_blue_amplified.pmd"
+ 
+
+	default_scale: 0.632
+
+	scale_factor: 3
+
+
+	fake_interior_offset: 1.5
+}
+flare_blink: flare.vehicle.blueflarede1{
+
+	dir_type: wide
+
+	
+light_type: beacon
+
+	
+blink_pattern: "XX-X----------"
+
+	blink_step_length: 0.09		
+
+	model: "/model/flare/vehicle_blue_beacon.pmd"
+ 
+
+	default_scale: 0.732
+
+	scale_factor: 3
+
+
+	fake_interior_offset: 1.5
+}
+flare_blink: flare.vehicle.blueflarede2{
+
+	dir_type: wide
+
+	
+light_type: beacon
+
+	
+blink_pattern: "-------XX-X---"
+
+	blink_step_length: 0.09
+		
+
+	model: "/model/flare/vehicle_blue_beacon.pmd"
+ 
+
+	default_scale: 0.732
+
+	scale_factor: 3
+
+
+	fake_interior_offset: 1.5
+}
+}
+
+

@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color9.skoda.superb.paint_job
+{
+	name: "Jungle Green"
+	price: 3000
+	unlock: 0
+	base_color :   (0.2034, 0.1861, 0.0984)
+	base_color_locked: true
+	stock: true
+}
+}

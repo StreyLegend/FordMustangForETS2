@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : shape1.skoda.superb.leds
+{
+	name: "Blue Leds"
+	price: 50
+	unlock: 0
+	icon: "ets2mp"
+	exterior_model: "/vehicle/truck/upgrade/leds/led1.pmd"
+}
+}

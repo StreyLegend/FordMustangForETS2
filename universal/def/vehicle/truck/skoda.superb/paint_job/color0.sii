@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_paint_job_data : color0.skoda.superb.paint_job
+{
+	name: "@@custom_color@@"
+	price: 3000
+	unlock: 0
+	icon: "color_custom_icon"
+	base_color :   (0.8277, 0.7855, 0.7309)
+	base_color_locked: false
+	stock: false
+}
+}

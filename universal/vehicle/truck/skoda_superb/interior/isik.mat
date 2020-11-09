@@ -1,0 +1,8 @@
+material : "eut2.unlit.vcol.tex.decal.over" {
+	texture[0] : "/vehicle/truck/skoda_superb/interior/ddsler/isik.tobj"
+	texture_name[0] : "texture_base"
+	ambient : { 0 , 0 , 0 }
+	diffuse : { 1 , 1 , 1 }
+	aux[1] : { 0 , 0 }
+
+}

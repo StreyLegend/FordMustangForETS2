@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color6.skoda.superb.paint_job
+{
+	name: "Lava Blue"
+	price: 3000
+	unlock: 0
+	base_color :   (0.0019, 0.1164, 0.2520)
+	base_color_locked: true
+	stock: true
+}
+}

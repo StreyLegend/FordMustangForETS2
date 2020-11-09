@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : carav_tmp.rhub
+{
+	name: "Caravan Wheel"
+	price: 2250
+	unlock: 9
+	model: "/vehicle/wheel/empty/empty_10cm.pmd"
+	icon: "ets2mp"
+	look: default	
+@include "/def/vehicle/car_wheels_conflicts_trailer.sui"
+}
+}

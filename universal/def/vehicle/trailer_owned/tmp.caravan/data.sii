@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_trailer_data : vehicle.tmp.caravan
+{
+	info[]: "TruckersMP"			# brand
+	info[]: "Caravan"	# series/type
+
+	fallback[]: "r_tire|caravan.tmp.sii"
+	fallback[]: "r_disc|caravan.tmp.sii"
+	fallback[]: "r_hub|caravan.tmp.sii"
+	fallback[]: "r_nuts|caravan.tmp.sii"
+	fallback[]: "paint_job|color.sii"
+}
+}

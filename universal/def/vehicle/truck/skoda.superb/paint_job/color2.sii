@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : color2.skoda.superb.paint_job
+{
+	name: "Laser White"
+	price: 3000
+	unlock: 0
+	base_color :   (0.7648, 0.8349, 0.7579)
+	base_color_locked: true
+	stock: true
+}
+}

@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_engine_data : 18tsi.skoda.superb.engine
+{
+	name: "1.8 TSI"
+	price: 5000
+	unlock: 0
+	info[]: "160 @@hp@@ (118@@kw@@)"
+	info[]: "@@dg@@250 @@nm@@"
+	info[]: "1@@dg@@500-4@@dg@@200 @@rpm@@"
+	icon: "engine_01"
+	torque: 2500
+	rpm_limit: 6000
+	volume: 6.01
+	@include "sound.sui"
+}
+}

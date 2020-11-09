@@ -1,0 +1,28 @@
+SiiNunit
+{
+accessory_transmission_data : 6_speed.skoda.superb.transmission
+{
+	name: "Manual 6-speed"
+	price: 5000
+	unlock: 0
+	icon: "transmission_generic"
+
+	stall_torque_ratio: 2.42
+	
+	# info from oscar
+	# Volvo I-Shift/Renault Optidrive (Volvo ATO3512D)
+	# Differential Ratio: 2.47, 2.64, 2.85, 3.08, 3.40, 3.67
+	# 11.73 9.21 7.09 5.57 4.35 3.41 2.70 2.12 1.63 1.28 1.00 0.78 Rev: -10.78
+	differential_ratio: 1.40
+	# reverse gear
+	ratios_reverse[0]: -5.55
+
+	ratios_forward[0]: 6.4
+	ratios_forward[1]: 4.7
+	ratios_forward[2]: 2.21
+	ratios_forward[3]: 1.53
+	ratios_forward[4]: 1.0
+	ratios_forward[5]: 0.76
+
+}
+}

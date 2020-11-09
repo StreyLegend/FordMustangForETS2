@@ -1,0 +1,14 @@
+material : "eut2.lamp.add.env.fx" {
+	texture[0] : "/vehicle/truck/skoda_superb/textures/tex2.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/skoda_superb/textures/lightmask.tobj"
+	texture_name[1] : "texture_mask"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.11928 , 0.11928 , 0.11928 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 90
+	specular : { 0.170645 , 0.170645 , 0.170645 }
+}

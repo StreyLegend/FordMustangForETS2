@@ -1,0 +1,60 @@
+SiiNunit
+{
+trailer : .tmp.caravan.default.default
+{
+	trailer_definition: trailer_def.tmp.caravan.default.default
+
+	accessories[]: .data
+	accessories[]: .chassis
+	accessories[]: .body
+	accessories[]: .paint_job
+	accessories[]: .tire1
+	accessories[]: .disc1
+	accessories[]: .hub1
+	accessories[]: .nuts1
+}
+
+vehicle_accessory: .data
+{
+	data_path: "/def/vehicle/trailer_owned/tmp.caravan/data.sii"
+}
+
+vehicle_accessory: .chassis
+{
+	data_path: "/def/vehicle/trailer_owned/tmp.caravan/chassis/default.sii"
+}
+
+vehicle_accessory: .body
+{
+	data_path: "/def/vehicle/trailer_owned/tmp.caravan/body/default.sii"
+}
+
+vehicle_paint_job_accessory: .paint_job
+{
+	data_path: "/def/vehicle/trailer_owned/tmp.caravan/paint_job/color.sii"
+}
+
+vehicle_wheel_accessory: .tire1
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_tire/caravan.tmp.sii"
+}
+
+vehicle_wheel_accessory: .disc1
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_disc/caravan.tmp.sii"
+}
+
+vehicle_wheel_accessory: .hub1
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_hub/caravan.tmp.sii"
+}
+
+vehicle_wheel_accessory: .nuts1
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_nuts/caravan.tmp.sii"
+}
+}

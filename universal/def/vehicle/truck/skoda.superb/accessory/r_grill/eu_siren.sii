@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : eusiren.skoda.superb.r_grill
+{
+	name: "Police EU"
+	price: 1800
+	unlock: 0
+	icon: "ets2mp"
+	exterior_model: "/vehicle/truck/upgrade/leds/eu_siren.pmd"
+}
+}

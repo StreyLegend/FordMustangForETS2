@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_paint_job_data : color.tmp.caravan.paint_job
+{
+	name: "Default"
+	price: 2600
+	unlock: 0
+	base_color: (1, 1, 1)
+}
+}

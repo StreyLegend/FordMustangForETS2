@@ -1,0 +1,14 @@
+material : "eut2.dif.spec.mult.dif.spec.add.env" {
+	texture[0] : "/vehicle/truck/skoda_superb/interior/ao_wszystko.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/skoda_superb/interior/dashboard_wood.tobj"
+	texture_name[1] : "texture_mult"
+	texture[2] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	diffuse : { 0.776471 , 0.776471 , 0.776471 }
+	specular : { 1 , 1 , 1 }
+	shininess : 60
+	env_factor : { 0.214041 , 0.214041 , 0.214041 }
+	fresnel : { 0.2 , 0.9 }
+
+}
